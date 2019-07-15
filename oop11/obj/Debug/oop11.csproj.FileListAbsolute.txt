@@ -1,0 +1,7 @@
+C:\Users\veranikalabovich\source\repos\oop11\oop11\bin\Debug\oop11.exe.config
+C:\Users\veranikalabovich\source\repos\oop11\oop11\bin\Debug\oop11.exe
+C:\Users\veranikalabovich\source\repos\oop11\oop11\bin\Debug\oop11.pdb
+C:\Users\veranikalabovich\source\repos\oop11\oop11\obj\Debug\oop11.csprojAssemblyReference.cache
+C:\Users\veranikalabovich\source\repos\oop11\oop11\obj\Debug\oop11.csproj.CoreCompileInputs.cache
+C:\Users\veranikalabovich\source\repos\oop11\oop11\obj\Debug\oop11.exe
+C:\Users\veranikalabovich\source\repos\oop11\oop11\obj\Debug\oop11.pdb
